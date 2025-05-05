@@ -1,3 +1,4 @@
+[![C/C++ CI](https://github.com/badie16/SysMon-cpp/actions/workflows/build.yml/badge.svg?branch=Version-1)](https://github.com/badie16/SysMon-cpp/actions/workflows/build.yml)
 # SysMon-cpp
 
 ## Description
